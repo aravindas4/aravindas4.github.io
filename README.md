@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aravinda S</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Backend developer from India</h3>
 
 - 💬 Ask me about **Python, Django, RESTful API, Database**
 
